@@ -1,13 +1,17 @@
-"variabes de numeros"
+# Variables de números
+mi_entero = 10    # (int - entero)
+mi_flotante = 10.5  # (float - decimal)
+mi_largo = 1000000   # (int largo)
+mi_corto = 3      # (int corto)
 
-int= 10 (enteros)
-flotante = 10.5 (decimales)
-long = 1000000 (numeros mayores a 32 bits)
-short = 3 (enteros pequeños)
+# Variables de texto
+short_text = "alan" # (str - texto)
+caracter = 'a'  # (str - carácter individual)
 
-
-"variables de texto"
-
-short_text = "alan" (de texto)
-char = 'a' (un caracter)   
- 
+# Print con tipo
+print("Entero (int):", mi_entero)
+print("Decimal (float):", mi_flotante)
+print("Entero largo (int largo):", mi_largo)
+print("Entero corto (int corto):", mi_corto)
+print("Texto (str):", short_text)
+print("Carácter (str):", caracter)
