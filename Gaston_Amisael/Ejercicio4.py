@@ -1,3 +1,5 @@
+#SOLUCIÓN AL RETOg
+
 ejercicio = input("Elige una operación(*,/,+,-):" )
 
 a = float(input("Numero 1:"))
