@@ -12,3 +12,5 @@ else:
         print("El número es negativo y par")
     else:
         print("El número es negativo e impar")
+
+#RETO REVISAR SU ES PAR O IMPAR

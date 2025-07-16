@@ -9,4 +9,4 @@ elif nota >= 4:
 else:
     print ("reprobado")
     
-#poner más opciones como regular
+#RETO poner más opciones como regular
