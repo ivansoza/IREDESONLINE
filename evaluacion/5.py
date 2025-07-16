@@ -1,5 +1,14 @@
 
 
+# Ejemplo base:
+# edad = int(input('¿Qué edad tienes? '))
+# if edad < 18:
+#     print('Eres menor de edad')
+# else:
+#     print('Eres mayor de edad')
+
+
+
 
 # 5.py
 

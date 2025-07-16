@@ -1,6 +1,17 @@
  
 
 
+# Ejemplo base:
+# a = int(input('Número A: '))
+# b = int(input('Número B: '))
+# if a > b:
+#     print('A es mayor')
+# else:
+#     print('B es mayor o igual')
+
+
+
+
 # 3.py
 
 a = int(input('Número A: '))

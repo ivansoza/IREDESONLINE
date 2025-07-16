@@ -1,4 +1,14 @@
 
+# Ejemplo base:
+# n = int(input('Número entero: '))
+# if n % 2 == 0:
+#     print('Es par')
+# else:
+#     print('Es impar')
+
+
+
+
 
 
 # 2.py
