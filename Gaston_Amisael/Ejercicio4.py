@@ -1,4 +1,4 @@
-#SOLUCIÓN AL RETOg
+#SOLUCIÓN AL RETO
 
 ejercicio = input("Elige una operación(*,/,+,-):" )
 
